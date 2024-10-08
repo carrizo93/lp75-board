@@ -1,0 +1,6 @@
+[submodule "hardware/MX_V2"]
+	path = hardware/MX_V2
+	url = https://github.com/ai03-2725/MX_V2
+[submodule "hardware/random-keyboard-parts.pretty"]
+	path = hardware/random-keyboard-parts.pretty
+	url = https://github.com/ai03-2725/random-keyboard-parts.pretty
