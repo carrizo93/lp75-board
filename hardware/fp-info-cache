@@ -1,4 +1,4 @@
-24611385262848838
+24611215163460357
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -99973,13 +99973,6 @@ Zigbee_Module_MRF24J40MD
 0
 12
 12
-footprints
-CON_781710004
-
-781710004 
-0
-6
-6
 random-keyboard-parts
 D_SOD-123-Pretty
 SOD-123
